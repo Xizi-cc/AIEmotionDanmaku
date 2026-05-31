@@ -1,0 +1,14 @@
+# Prototype directory
+
+Current files (Web UI only):
+
+| File | Purpose |
+|------|---------|
+| [Qwen_html_20260524_481u8vlmv.html](Qwen_html_20260524_481u8vlmv.html) | Warm Web console visual prototype |
+| [Qwen_markdown_20260525_4vyxmv819.md](Qwen_markdown_20260525_4vyxmv819.md) | Design tokens and component notes |
+
+**Removed from the repo (historical):** `scheme-e-*.html`, `scheme-e-tokens.css`, `scheme-e-app.css`, root `ui_preview.html`, and the legacy Qt main window (`ui/`). See [docs/archive/qt6_ui_redesign_plan.md](../docs/archive/qt6_ui_redesign_plan.md) and git history.
+
+**New UI work:** implement in `web/static/` + `app/web_api/`, aligned with the Qwen prototypes above.
+
+**Naming:** Filenames prefixed with `Qwen_` indicate design-tool export provenance only. AIEmotionDanmaku is not affiliated with Alibaba Cloud or the Qwen product line.
